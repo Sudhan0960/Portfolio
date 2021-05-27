@@ -69,8 +69,6 @@ body {
   display: flex;
   justify-content: center;
 }
-<<<<<<< HEAD
-=======
 @media screen and (max-width: 450px) {
   #welcome-section {
     font-size: 10vw;
@@ -123,7 +121,6 @@ body {
     font-size: 1rem;
   }
 }
->>>>>>> a61f6bafff8b2006e813363b0c3aff9002b9bfb5
 .project-link {
   width: auto;
   margin-top: 1rem;
