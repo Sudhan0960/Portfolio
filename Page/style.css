@@ -71,7 +71,7 @@ body {
 }
 @media screen and (max-width: 450px) {
   #welcome-section {
-    font-size: 3vw;
+    font-size: 5vw;
     width: 100%;
     height: 30vh;
   }
